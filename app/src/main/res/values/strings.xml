@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">weatherViewer</string>
+    <string name="api_key">144c1c273c964f416750133784893657</string>
+    <string name="web_service_url">http://api.openweathermap.org/data/2.5/forecast/daily?q=</string>
+    <string name="invalid_url">URL inválida</string>
+    <string name="weather_condition_image">Representação gráfica de condições meteriológicas</string>
+    <string name="high_temp">Máxima: %s</string>
+    <string name="low_temp">Mínima: %s</string>
+    <string name="day_description">%1$s: %2$s</string>
+    <string name="humidity">Humidade: %s</string>
+    <string name="hint_text">Digite a cidade(ex.: Passos, BR)</string>
+    <string name="read_error">Erro ao ler dados meteriológicos</string>
+    <string name="connect_error">Erro de conexão com OpenWeatherMap.org</string>
+</resources>
